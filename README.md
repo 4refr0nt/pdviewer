@@ -1,3 +1,5 @@
+[https://habr.com/ru/company/funcorp/blog/481656/](https://habr.com/ru/company/funcorp/blog/481656/)
+
 # Simple webinterface for viewing alerts from PagerDuty
 
 **Usage:**
